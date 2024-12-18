@@ -1,0 +1,30 @@
+
+
+table{
+    text-align: center;
+    width: 50%;
+    min-width: 300px;
+    margin: auto;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pessoa{
+    text-align: left;
+}
+
+.s_borda{
+    margin: 50px;
+}
+
+td, th{
+    padding: 5px;
+}
+
+
+.linha1{
+    background-color: rgb(240, 248, 255);
+}
